@@ -7,8 +7,8 @@ from binance.client import Client
 
 
 # client configuration
-api_key = 'YrYQ2JVb08r6JufXdzKm3EaEnMYJQNvd3TeHNoskbOpz6LVRFgfHAZcAABAecvE0' 
-api_secret = 'bcOrcKJFvYGCzcQMiBQDufPoX6uiFv9FtcFIe0m2UbhIBN9wM4yFKSXAtSSnllAf'
+api_key = ' ' 
+api_secret = ' '
 
 client = Client(api_key, api_secret)
 
