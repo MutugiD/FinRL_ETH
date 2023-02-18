@@ -3,11 +3,11 @@ import datetime as dt
 import requests, json
 
 
-from binance_mod.client import Client
+from binance.client import Client
 
 # client configuration
-api_key = 'lszgqK2jecdLCgoIU4BELKOHkhwkXbVtfTB0lYeXtwATtKMBS584tsA4tAbUeS74' 
-api_secret = 'ctcdtdi9mMONEoV3UVo8ZdQu0DNrbXhv1NWHnmZlOydPkSZMNi6rc2C40qgba2Gl'
+api_key = 'QvKKDGinhzyYfVjuYjkQoFBgC889NWPXZLiVocUFOaJ7gLqikAAtNVHIPTz5lfXc' 
+api_secret = 'eUQRRjEfBAobBE2U03I3e4aZTqJym8cghm9DTPjfmemOFuGDdZbf54e4T0gzlyqhgit'
 
 client = Client(api_key, api_secret)
 
