@@ -5,9 +5,10 @@ import requests, json
 
 from binance.client import Client
 
+
 # client configuration
-api_key = ' ' 
-api_secret = ' '
+api_key = 'YrYQ2JVb08r6JufXdzKm3EaEnMYJQNvd3TeHNoskbOpz6LVRFgfHAZcAABAecvE0' 
+api_secret = 'bcOrcKJFvYGCzcQMiBQDufPoX6uiFv9FtcFIe0m2UbhIBN9wM4yFKSXAtSSnllAf'
 
 client = Client(api_key, api_secret)
 
